@@ -1,0 +1,11 @@
+<div id="errorView" data-status="#dataVariable($context.response.status)" data-error="#dataVariable($error)">
+    <div class="errorWrapper">
+        <h1 class="text--center">$!{context.response.status}</h1>
+        <h1 class="text--center">$!{error.message}</h1>
+
+        <ul class="nav">
+        	<li><a href="#springUrl("/")">トップに戻る</a></li>
+        	<li><a href="#springUrl("/inquiry")">お問い合わせ</a></li>
+        </ul>
+    </div>
+</div>

@@ -74,115 +74,115 @@
   </security-constraint>
   <error-page>
     <error-code>400</error-code>
-    <location>/400</location>
+    <location>/error/400</location>
   </error-page>
   <error-page>
     <error-code>401</error-code>
-    <location>/401</location>
+    <location>/error/401</location>
   </error-page>
   <error-page>
     <error-code>403</error-code>
-    <location>/403</location>
+    <location>/error/403</location>
   </error-page>
   <error-page>
     <error-code>404</error-code>
-    <location>/404</location>
+    <location>/error/404</location>
   </error-page>
   <error-page>
     <error-code>405</error-code>
-    <location>/405</location>
+    <location>/error/405</location>
   </error-page>
   <error-page>
     <error-code>406</error-code>
-    <location>/406</location>
+    <location>/error/406</location>
   </error-page>
   <error-page>
     <error-code>415</error-code>
-    <location>/415</location>
+    <location>/error/415</location>
   </error-page>
   <error-page>
     <error-code>500</error-code>
-    <location>/500</location>
+    <location>/error/500</location>
   </error-page>
   <error-page>
     <error-code>501</error-code>
-    <location>/501</location>
+    <location>/error/501</location>
   </error-page>
   <error-page>
     <error-code>502</error-code>
-    <location>/502</location>
+    <location>/error/502</location>
   </error-page>
   <error-page>
     <error-code>503</error-code>
-    <location>/503</location>
+    <location>/error/503</location>
   </error-page>
   <error-page>
     <error-code>402</error-code>
-    <location>/error</location>
+    <location>/error/402</location>
   </error-page>
   <error-page>
     <error-code>407</error-code>
-    <location>/error</location>
+    <location>/error/407</location>
   </error-page>
   <error-page>
     <error-code>408</error-code>
-    <location>/error</location>
+    <location>/error/408</location>
   </error-page>
   <error-page>
     <error-code>409</error-code>
-    <location>/error</location>
+    <location>/error/409</location>
   </error-page>
   <error-page>
     <error-code>410</error-code>
-    <location>/error</location>
+    <location>/error/410</location>
   </error-page>
   <error-page>
     <error-code>411</error-code>
-    <location>/error</location>
+    <location>/error/411</location>
   </error-page>
   <error-page>
     <error-code>412</error-code>
-    <location>/error</location>
+    <location>/error/412</location>
   </error-page>
   <error-page>
     <error-code>413</error-code>
-    <location>/error</location>
+    <location>/error/413</location>
   </error-page>
   <error-page>
     <error-code>414</error-code>
-    <location>/error</location>
+    <location>/error/414</location>
   </error-page>
   <error-page>
     <error-code>504</error-code>
-    <location>/error</location>
+    <location>/error/504</location>
   </error-page>
   <error-page>
     <error-code>505</error-code>
-    <location>/error</location>
+    <location>/error/505</location>
   </error-page>
   <error-page>
     <error-code>506</error-code>
-    <location>/error</location>
+    <location>/error/506</location>
   </error-page>
   <error-page>
     <error-code>507</error-code>
-    <location>/error</location>
+    <location>/error/507</location>
   </error-page>
   <error-page>
     <error-code>508</error-code>
-    <location>/error</location>
+    <location>/error/508</location>
   </error-page>
   <error-page>
     <error-code>509</error-code>
-    <location>/error</location>
+    <location>/error/509</location>
   </error-page>
   <error-page>
     <error-code>510</error-code>
-    <location>/error</location>
+    <location>/error/510</location>
   </error-page>
   <error-page>
     <error-code>511</error-code>
-    <location>/error</location>
+    <location>/error/511</location>
   </error-page>
 
 </web-app>
