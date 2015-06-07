@@ -1,0 +1,13 @@
+#parse("/common/macro.vm")
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title>inquiry</title>
+    </head>
+
+    <body>
+		## TODO テンプレートごとに振り分け
+        #parse("/templates/plain.vm")
+    </body>
+</html>

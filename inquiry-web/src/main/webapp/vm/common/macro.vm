@@ -1,0 +1,3 @@
+#macro(e $message)$!{display.br($escape.html($message))}#end
+#macro(datetime $value)#e($date.format("yyyy-MM-dd HH:mm:ss z", $value))#end
+#macro(dataVariable $variable)$!{escape.html($json.serialize($variable))}#end

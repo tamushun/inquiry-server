@@ -1,0 +1,6 @@
+<div id="plainView">
+    #parse("/templates/plain/header.vm")
+    <div class="mainContent">
+        $!{screenContent}
+    </div>
+</div>

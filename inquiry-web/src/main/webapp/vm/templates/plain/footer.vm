@@ -1,0 +1,8 @@
+<footer role="cotentinfo" class="plainFooterView">
+	<ul class="nav">
+		<li><a href="/terms">利用規約</a></li>
+		<li><a href="/privacypolicy">プライバシポリシー</a></li>
+		<li><a href="/documents">ドキュメント</a></li>
+        <li><a href="/inquiry">お問い合わせ</a></li>
+	</ul>
+</footer>
